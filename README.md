@@ -1,2 +1,2 @@
 - 👋 Hi, I’m interested in topological materials, Linux systems, 3D printing and numerical methods
-- 🌱 I’m currently learning basics of computer science and C
+- 🌱 I’m currently learning basics of server deployment/configuration and docker
