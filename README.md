@@ -1,2 +1,1 @@
-- 👋 Hi, I’m working on Research Data Management in Paul-Drude-Institut(PDI) with collaboration of FAIRmat.
-- 🌱 I’m currently learning how to operate NOMAD Oasis and deploy custom plugins for specific user case in PDI.
+- 👋 Hi, I’m working on Researcher in Paul-Drude-Institut(PDI).
